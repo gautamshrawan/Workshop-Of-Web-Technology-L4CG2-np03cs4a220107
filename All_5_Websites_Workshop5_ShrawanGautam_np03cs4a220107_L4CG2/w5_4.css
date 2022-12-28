@@ -1,0 +1,30 @@
+h1{
+    font-size: 46px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 35%;
+    margin: 85px 115px ;
+    float: right;
+}
+
+body{
+    background-color: hsl(304, 89%, 10%);
+    color: aliceblue;
+    float: right;
+
+}
+img{
+    height: 600px;
+    width: 560px;
+    padding-right: 0px;
+    object-fit: cover;
+    
+}
+
+.venue{
+    float: right;
+    margin-top: -380px;
+    margin-right: 180px;
+    font-size: larger;
+    line-height: 50px;
+    position: relative;
+}

@@ -1,0 +1,38 @@
+h1{
+    font-size: 46px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 27%;
+    margin: 80px 100px ;
+}
+
+body{
+    background-color: hsl(327, 92%, 15%);
+    color: rgb(204, 250, 253);
+
+}
+img{
+    height: 785px;
+    width: 520px;
+    float: right;
+    margin-top: -600px;
+    padding-right: 0px;
+}
+
+.textin{
+    margin-top: 40px;
+    margin-left: 100px;
+    font-size: x-large;
+    color: aliceblue;
+}
+
+input{
+    margin-top: 40px;
+    width:fit-content ;
+    font-size: 18px;
+    background-color: rgb(187, 247, 252);
+    color: hsl(327, 92%, 15%) ;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    font-weight: bold;
+}

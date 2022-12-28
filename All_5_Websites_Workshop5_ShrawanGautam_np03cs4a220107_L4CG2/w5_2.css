@@ -1,0 +1,28 @@
+h1{
+    font-size: 42px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 45%;
+    margin: 50px 100px ;
+}
+
+
+body{
+    background-color: hsl(171, 47%, 58%);
+    color: rgb(5, 40, 70);
+
+}
+img{
+    height: auto;
+    width: auto;
+    align-self: center;
+    padding-left: 210px;
+    object-fit: cover;
+}
+
+.para{
+    float: right;
+    margin-top: -200px;
+    max-width: 45%;
+    padding-right: 130px;
+    font-size: larger;
+}

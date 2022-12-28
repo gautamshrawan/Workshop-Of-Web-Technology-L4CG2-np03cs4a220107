@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(65, 0, 0);
+  color: rgb(239, 210, 208);
+}
+
+h1 {
+  padding-top: 20px;
+ text-align: center;
+ color: rgb(245, 138, 138);
+}
+
+img{
+  object-fit: cover;
+  height:330px;
+  width: 340px;
+
+}
+.image-and-text{
+  display: inline-block;
+  justify-content: space-between;
+  padding: 25px;
+ }
+.bolder{
+  font-style: oblique;
+}
